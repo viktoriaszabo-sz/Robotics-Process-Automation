@@ -1,0 +1,9 @@
+﻿Invoice Number,item,quantity,unit,Unit Price,Vat Precentage,Line Vat Amount,Line Item Amount
+143143,Installation Services,5,h,60,24,72.00,372.00
+143143,Replacement Products,10,kpl,105,24,252.00,1302.00
+1543235,Keyboard Logitech,10,kpl,40.00,24,96.00,496.00
+1543235,Brother printer,1,kpl,65.00,24,15.60,80.60
+153143,Installation Services,5,h,60,24,72.00,372.00
+153143,Replacement Products,10,kpl,105,24,252.00,1302.00
+153143,Cleaning Services,5,h,60,24,72.00,372.00
+153143,Cleaning Wipes,10,kpl,105,24,252.00,1302.00
